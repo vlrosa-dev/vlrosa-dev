@@ -1,7 +1,7 @@
 ## Fala Dev, eu sou Victor Rosa.
 
-- 🔭 Trabalhando atualmente com tecnologias da Microsoft no ecossistema Low-Code (Power Platform)
-- 🌱 Estudando .NET e Python
+- 🔭 Trabalhando com projetos Python voltados principalmente para cenários de automação de processos.
+- 🌱 Python Developer
 
 <div align="center">
   <a href="https://github.com/vlrosa-dev">
